@@ -1,0 +1,10 @@
+{
+  "name": "livestream-demo-existing-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/livestream-demo-existing-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["livestream-demo-existing"],
+  "// targets": "to see all targets run: nx show project livestream-demo-existing-e2e --web",
+  "targets": {}
+}
